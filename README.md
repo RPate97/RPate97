@@ -1,4 +1,4 @@
-- 👋👋 Hi, I’m Ryan Pate
+## 👋 👋 Hi, I’m Ryan Pate
 - I'm a Full-Stack software engineer with personal interests ranging from mobile development, to Web3, to biotech and longevity. I spend much of my free time
   developing various software projects including several mobile apps. I'm currently focused on bringing NFTs to the culturally significant industry of internet memes
   by creating a standardized method of minting meme NFTs with guarenteed scarcity and value. 
